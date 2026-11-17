@@ -1,0 +1,1 @@
+-- Q: How many orders exist in the Orders table?
